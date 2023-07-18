@@ -42,7 +42,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2017.09 - 2021.06*, Shandong University, School of Mechanical, Electrical and Information Engineerin, B.S. of Engineerin. 
 
 # 💻 Internships
-- *2023.06 - 2020.08*, [Lorem](https://github.com/), China.
+- *2023.06 - 2020.08*, Peking University, Supervisor: Liu Jiaying. 
 
 # 💬 Experience
 - *2021.06* - 2022.7*, Bytedance, Front-end Engineer, Research and Development Department.
