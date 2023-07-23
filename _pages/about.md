@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-山近月远觉月小，便道此山大于月。若人有眼大如天，当见山高月更阔。 --王守仁《蔽月山房》
+<span style='font-size:2em'>山近月远觉月小，便道此山大于月。若人有眼大如天，当见山高月更阔。 --王守仁《蔽月山房》<span>
 
 
 # 📝 Publications 
