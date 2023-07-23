@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-山近月远觉月小，便道此山大于月。若人有眼大如天，当见山高月更阔。 --王守仁
+山近月远觉月小，便道此山大于月。若人有眼大如天，当见山高月更阔。 --王守仁《蔽月山房》
 
 
 # 📝 Publications 
 
-- Sui J, Yin J. A biased proportional-integral-derivative-incorporated latent factor analysis model[J]. Applied Sciences, 2021, 11(12): 5724. github: <a href='https://github.com/littlebeen/GCRDN'>https://github.com/littlebeen/GCRDN</a>
-- Sui J, Ma X, Zhang X, et al. GCRDN: Global Context-Driven Residual Dense Network for Remote Sensing Image Super-Resolution[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2023.
-- Sui J, Ma X, Zhang X, et al. DTRN: DUAL TRANSFORMER RESIDUAL NETWORK FOR REMOTE SENSING SUPER-RESOLUTION[J].
+- Sui J, Yin J. <a href='https://www.mdpi.com/2076-3417/11/12/5724'>A biased proportional-integral-derivative-incorporated latent factor analysis model</a>[J]. Applied Sciences, 2021, 11(12): 5724.
+- Sui J, Ma X, Zhang X, et al. <a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10115440'>GCRDN: Global Context-Driven Residual Dense Network for Remote Sensing Image Super-Resolution</a>[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2023. github: <a href='https://github.com/littlebeen/GCRDN'>https://github.com/littlebeen/GCRDN</a>
+- Sui J, Ma X, Zhang X, et al. <a href='https://mypage.cuhk.edu.cn/academics/simonpun/papers/IGARSS23-Jialu.pdf'>DTRN: DUAL TRANSFORMER RESIDUAL NETWORK FOR REMOTE SENSING SUPER-RESOLUTION</a>[J].
 
 
 # 📖 Educations
