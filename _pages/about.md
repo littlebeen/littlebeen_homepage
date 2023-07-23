@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <span style='font-size:large'>山近月远觉月小，便道此山大于月。若人有眼大如天，当见山高月更阔。 ---王守仁《蔽月山房》<span>
-A student in the Chinese University of Hongkong, working on super-resolution and cloud removal of remote sensing :)
+<div>A student in the Chinese University of Hongkong, working on super-resolution and cloud removal of remote sensing :)</div>
 
 # 📝 Publications 
 
