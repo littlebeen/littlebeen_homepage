@@ -32,7 +32,7 @@ redirect_from:
 - *2017.09 - 2021.06*, Shandong University, School of Mechanical, Electrical and Information Engineerin, B.S. of Engineerin. Supervisor: Jian Yin, Professor. Projction: Recommendation System.
 
 # 💻 Internships
-- *2023.06 - 2023.08*, Peking University, Supervisor: Liu Jiaying. Projction: Cloud Removal. Website: <a href='www.wict.pku.edu.cn/struct'>www.wict.pku.edu.cn/struct</a>
+- *2023.06 - 2023.08*, Peking University, Supervisor: Liu Jiaying. Projction: Cloud Removal. Website: <a href='http://39.96.165.147/struct.html'>http://39.96.165.147/struct.html</a>
 
 # 💬 Experience
 - *2021.07 - 2022.7*, Bytedance, Front-end Engineer, Research and Development Department.
