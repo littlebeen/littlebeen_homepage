@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <span style='font-size:large'>山近月远觉月小，便道此山大于月。若人有眼大如天，当见山高月更阔。 ---王守仁《蔽月山房》<span>
-<div>A student in the Chinese University of Hongkong, working on super-resolution and cloud removal of remote sensing :)</div>
+<div>A student in The Chinese University of Hongkong, working on super-resolution and cloud removal of remote sensing :)</div>
 
 # 📝 Publications 
 
@@ -29,7 +29,7 @@ redirect_from:
 
 # 📖 Educations
 - *2022.09 - now*, The Chinese University of Hongkong, Shenzhen, School of Science and Engineering, Mphil of Computer and Information Engine, Supervisor: Man-On Pun, Associate Professor, Associate Colleges. Projction: Cloud Removal, Super-Resolution. Website: <a href='https://mypage.cuhk.edu.cn/academics/simonpun/'>https://mypage.cuhk.edu.cn/academics/simonpun/</a>
-- *2017.09 - 2021.06*, Shandong University, School of Mechanical, Electrical and Information Engineerin, B.S. of Engineerin. Supervisor: Jian Yin, Professor. Projction: Recommendation System.
+- *2017.09 - 2021.06*, Shandong University, School of Mechanical, Electrical and Information Engineering, B.S. of Engineering. Supervisor: Jian Yin, Professor. Projction: Recommendation System.
 
 # 💻 Internships
 - *2023.06 - 2023.08*, Peking University, Supervisor: Liu Jiaying. Projction: Cloud Removal. Website: <a href='http://39.96.165.147/struct.html'>http://39.96.165.147/struct.html</a>
