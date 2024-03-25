@@ -28,7 +28,7 @@ redirect_from:
 
 
 # 📖 Educations
-- *2022.09 - now*, The Chinese University of Hong Hong, Shenzhen, School of Science and Engineering, Mphil of Computer Information Engineering, Supervisor: Man-On Pun, Associate Professor, Associate Colleges. Projction: Cloud Removal, Super-Resolution. Website: <a href='https://mypage.cuhk.edu.cn/academics/simonpun/'>https://mypage.cuhk.edu.cn/academics/simonpun/</a>
+- *2022.09 - now*, The Chinese University of Hong Kong, Shenzhen, School of Science and Engineering, Mphil of Computer Information Engineering, Supervisor: Man-On Pun, Associate Professor, Associate Colleges. Projction: Cloud Removal, Super-Resolution. Website: <a href='https://mypage.cuhk.edu.cn/academics/simonpun/'>https://mypage.cuhk.edu.cn/academics/simonpun/</a>
 - *2017.09 - 2021.06*, Shandong University, School of Mechanical, Electrical and Information Engineering, B.S. of Engineering. Supervisor: Yin Jian, Professor. Projction: Recommendation System.
 
 # 💻 Internships
