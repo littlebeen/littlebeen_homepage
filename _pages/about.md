@@ -28,11 +28,11 @@ redirect_from:
 
 
 # 📖 Educations
-- *2022.09 - now*, The Chinese University of Hongkong, Shenzhen, School of Science and Engineering, Mphil of Computer and Information Engine, Supervisor: Man-On Pun, Associate Professor, Associate Colleges. Projction: Cloud Removal, Super-Resolution. Website: <a href='https://mypage.cuhk.edu.cn/academics/simonpun/'>https://mypage.cuhk.edu.cn/academics/simonpun/</a>
+- *2022.09 - now*, The Chinese University of Hong Hong, Shenzhen, School of Science and Engineering, Mphil of Computer Information Engineering, Supervisor: Man-On Pun, Associate Professor, Associate Colleges. Projction: Cloud Removal, Super-Resolution. Website: <a href='https://mypage.cuhk.edu.cn/academics/simonpun/'>https://mypage.cuhk.edu.cn/academics/simonpun/</a>
 - *2017.09 - 2021.06*, Shandong University, School of Mechanical, Electrical and Information Engineering, B.S. of Engineering. Supervisor: Yin Jian, Professor. Projction: Recommendation System.
 
 # 💻 Internships
 - *2023.06 - 2023.08*, Peking University, Supervisor: Liu Jiaying. Projction: Cloud Removal. Website: <a href='http://39.96.165.147/struct.html'>http://39.96.165.147/struct.html</a>
 
 # 💬 Experience
-- *2021.07 - 2022.07*, Bytedance, Front-end Engineer, Research and Development Department.
+- *2021.07 - 2022.07*, Bytedance, Full-time front-end Engineer, Research and Development Department.
