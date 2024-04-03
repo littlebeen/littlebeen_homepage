@@ -24,8 +24,8 @@ redirect_from:
 
 - Sui J, Yin J. <a href='https://www.mdpi.com/2076-3417/11/12/5724'>A biased proportional-integral-derivative-incorporated latent factor analysis model</a>[J]. Applied Sciences, 2021, 11(12): 5724.
 - Sui J, Ma X, Zhang X, et al. <a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10115440'>GCRDN: Global Context-Driven Residual Dense Network for Remote Sensing Image Super-Resolution</a>[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2023. github: <a href='https://github.com/littlebeen/GCRDN'>https://github.com/littlebeen/GCRDN</a>
-- Sui J, Ma X, Zhang X, et al. <a href='https://mypage.cuhk.edu.cn/academics/simonpun/papers/IGARSS23-Jialu.pdf'>DTRN: DUAL TRANSFORMER RESIDUAL NETWORK FOR REMOTE SENSING SUPER-RESOLUTION</a>[J].
-
+- Sui J, Wu Q, Pun M O.  <a href='https://www.mdpi.com/2072-4292/16/7/1219'>Denoising Diffusion Probabilistic Model with Adversarial Learning for Remote Sensing Super-Resolution</a>[J]. Remote Sensing, 2024, 16(7): 1219.
+- Sui J, Ma X, Zhang X, et al. <a href='https://mypage.cuhk.edu.cn/academics/simonpun/papers/IGARSS23-Jialu.pdf'>DTRN: DUAL TRANSFORMER RESIDUAL NETWORK FOR REMOTE SENSING SUPER-RESOLUTION</a>[C]//IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2023: 6041-6044.
 
 # 📖 Educations
 - *2022.09 - now*, The Chinese University of Hong Kong, Shenzhen, School of Science and Engineering, Mphil of Computer Information Engineering, Supervisor: Man-On Pun, Associate Professor, Associate Colleges. Projction: Cloud Removal, Super-Resolution. Website: <a href='https://mypage.cuhk.edu.cn/academics/simonpun/'>https://mypage.cuhk.edu.cn/academics/simonpun/</a>
@@ -35,4 +35,4 @@ redirect_from:
 - *2023.06 - 2023.08*, Peking University, Supervisor: Liu Jiaying. Projction: Cloud Removal. Website: <a href='http://39.96.165.147/struct.html'>http://39.96.165.147/struct.html</a>
 
 # 💬 Experience
-- *2021.07 - 2022.07*, Bytedance, Full-time front-end Engineer, Research and Development Department.
+- *2021.07 - 2022.07*, Bytedance, Full-time Engineer, Research and Development Department.
