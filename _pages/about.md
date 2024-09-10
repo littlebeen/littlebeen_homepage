@@ -17,8 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<span style='font-size:large'>山近月远觉月小，便道此山大于月。若人有眼大如天，当见山高月更阔。 ---王守仁《蔽月山房》<span>
-<div>A student in The Chinese University of Hongkong, working on super-resolution and cloud removal of remote sensing :)</div>
+<!--<span style='font-size:large'>山近月远觉月小，便道此山大于月。若人有眼大如天，当见山高月更阔。 ---王守仁《蔽月山房》<span>-->
+<span style='font-size:large'>天文地理 - 天有日月星辰谓之文，地有山川陵谷谓之理 ---《论衡》<span>
+<div>A student in The University of Hong Kong, working on remote sensing :)</div>
 
 # 📝 Publications 
 - Sui J, Ma Y, Yang W, et al.  <a href='https://ieeexplore.ieee.org/abstract/document/10552304'>Diffusion Enhancement for Cloud Removal in Ultra-Resolution Remote Sensing Imagery</a>[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024.
