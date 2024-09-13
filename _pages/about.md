@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!--<span style='font-size:large'>山近月远觉月小，便道此山大于月。若人有眼大如天，当见山高月更阔。 ---王守仁《蔽月山房》<span>-->
-<span style='font-size:large'>天文地理 - 天有日月星辰谓之文，地有山川陵谷谓之理 ---《论衡》<span>
+<span style='font-size:large'> 天有日月星辰谓之文，地有山川陵谷谓之理 ---《论衡》<span>
 <div>A student in The University of Hong Kong, working on remote sensing :)</div>
 
 # 📝 Publications 
@@ -31,11 +31,14 @@ redirect_from:
 - Wu Q, Ma X, Sui J, et al.  <a href='https://ieeexplore.ieee.org/abstract/document/10556641/'>DF4LCZ: A SAM-Empowered Data Fusion Framework for Scene-Level Local Climate Zone Classification</a>[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024.
 
 # 📖 Educations
-- *2022.09 - now*, The Chinese University of Hong Kong, Shenzhen, School of Science and Engineering, Mphil of Computer Information Engineering, Supervisor: Man-On Pun, Associate Professor, Associate Colleges. Projction: Cloud Removal, Super-Resolution. Website: <a href='https://mypage.cuhk.edu.cn/academics/simonpun/'>https://mypage.cuhk.edu.cn/academics/simonpun/</a>
+- *2025.01 start*, The University of Hong Kong, Department of Geography, Phd, Supervisor: Zhang Hongsheng, Associate Professor. Website: <a href='https://hkurs.hku.hk'>https://hkurs.hku.hk</a>
+- *2022.09 - 2024.07*, The Chinese University of Hong Kong, Shenzhen, School of Science and Engineering, Mphil of Computer Information Engineering, Supervisor: Man-On Pun, Associate Professor, Associate Colleges. Projction: Cloud Removal, Super-Resolution. Website: <a href='https://mypage.cuhk.edu.cn/academics/simonpun/'>https://mypage.cuhk.edu.cn/academics/simonpun/</a>
 - *2017.09 - 2021.06*, Shandong University, School of Mechanical, Electrical and Information Engineering, B.S. of Engineering. Supervisor: Yin Jian, Professor. Projction: Recommendation System.
 
 # 💻 Internships
-- *2023.06 - 2023.08*, Peking University, Supervisor: Liu Jiaying. Projction: Cloud Removal. Website: <a href='http://39.96.165.147/struct.html'>http://39.96.165.147/struct.html</a>
+- *2024.08 - now* ,Sun Yat-Sen University, Supervisor: Chen Yiping, Associate Professor. Projction: 3D instance segmantation. Website: <a href='https://ting-devin-han.github.io/Epingpages.github.io'>https://ting-devin-han.github.io/Epingpages.github.io/</a>
+- *2023.06 - 2023.08*, Peking University, Supervisor: Liu Jiaying, Associate Professor. Projction: Cloud Removal. Website: <a href='http://39.96.165.147/struct.html'>http://39.96.165.147/struct.html</a>
 
 # 💬 Experience
-- *2021.07 - 2022.07*, Bytedance, Full-time Engineer, Research and Development Department.
+- *2021.07 - 2022.07*, Bytedance, Shanghai, Full-time Engineer, Research and Development Department.
+- *2020.06 - 2022.08*, Bytedance, Wuxi, Intership, Research and Development Department.
