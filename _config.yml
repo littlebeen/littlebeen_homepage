@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jialu"
-description              : "Phd in The University of Hong Kong."
+description              : "天有日月星辰谓之文，地有山川陵谷谓之理。"
 repository               : "littlebeen/littlebeen_homepage"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Sui jialu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "The Chinese University of Hong Kong, Shenzhen"
+  bio              : "Phd in The University of Hong Kong"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
