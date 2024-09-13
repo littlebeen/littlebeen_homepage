@@ -38,4 +38,4 @@ redirect_from:
 
 # 💬 Experience
 - *2021.07 - 2022.07*, Bytedance, Shanghai, Full-time Engineer, Research and Development Department.
-- *2020.06 - 2022.08*, Bytedance, Wuxi, Intership, Research and Development Department.
+- *2020.06 - 2022.08*, Bytedance, Wuxi, Internship, Research and Development Department.
