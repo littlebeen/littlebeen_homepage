@@ -20,6 +20,10 @@ redirect_from:
 <span style='font-size:large'>山近月远觉月小，便道此山大于月。若人有眼大如天，当见山高月更阔。 ---王守仁《蔽月山房》<span>
 <div>A student in The University of Hong Kong, working on remote sensing :)</div>
 
+# 🔥 News
+
+- *2024.09.15* I get the firm offer from the University of Hong Kong.
+
 # 📝 Publications 
 - Sui J, Ma Y, Yang W, et al.  <a href='https://ieeexplore.ieee.org/abstract/document/10552304'>Diffusion Enhancement for Cloud Removal in Ultra-Resolution Remote Sensing Imagery</a>[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024.
 - Sui J, Ma X, Zhang X, et al. <a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10115440'>GCRDN: Global Context-Driven Residual Dense Network for Remote Sensing Image Super-Resolution</a>[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2023. github: <a href='https://github.com/littlebeen/GCRDN'>https://github.com/littlebeen/GCRDN</a>
