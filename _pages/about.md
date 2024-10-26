@@ -22,6 +22,7 @@ redirect_from:
 
 # 🔥 News
 
+- *2024.10.25* I get the Presidential Award for Qutstanding Graduate Students (The Highest award Top 1%, only 10 among more than 1100 students) from the Chinese University of Hong Kong, Shenzhen.
 - *2024.09.15* I get the firm offer from the University of Hong Kong.
 
 # 📝 Publications 
