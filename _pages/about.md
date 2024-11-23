@@ -22,7 +22,7 @@ redirect_from:
 
 # 🔥 News
 
-- *2024.11.16* I get the Presidential Award for Qutstanding Graduate Students (The Highest award Top 1%, only 10 among more than 1400 students) from the Chinese University of Hong Kong, Shenzhen and deliver <href='https://mp.weixin.qq.com/s/CfArulHxwJeMIiKWHgX8wg'>a speech</a> on behalf of all the postgraduates in the 2024 postgraduate graduation ceremony.
+- *2024.11.16* I get the Presidential Award for Qutstanding Graduate Students (The Highest award Top 1%, only 10 among more than 1400 students) from the Chinese University of Hong Kong, Shenzhen and deliver <a href='https://mp.weixin.qq.com/s/CfArulHxwJeMIiKWHgX8wg'>a speech</a> on behalf of all the postgraduates in the 2024 postgraduate graduation ceremony.
 
 - *2024.09.15* I get the firm offer from the University of Hong Kong and will start my PhD study on 1/1/2025.
 
