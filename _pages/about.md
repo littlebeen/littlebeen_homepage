@@ -42,7 +42,7 @@ redirect_from:
 
 # 💻 Internships
 - *2024.08 - now*, Sun Yat-Sen University, Supervisor: Chen Yiping, Associate Professor. Project: 3D instance segmantation. Website: <a href='https://ting-devin-han.github.io/Epingpages.github.io'>https://ting-devin-han.github.io/Epingpages.github.io/</a>
-- *2023.06 - 2023.08*, Peking University, Supervisor: Liu Jiaying, Associate Professor. Project: Cloud Removal. Website: <a href='http://39.96.165.147/struct.html'>http://39.96.165.147/struct.html</a>
+- *2023.06 - 2023.08*, Peking University, Supervisor: Liu Jiaying, Associate Professor, IEEE Fellow. Project: Cloud Removal. Website: <a href='http://39.96.165.147/struct.html'>http://39.96.165.147/struct.html</a>
 
 # 💬 Experience
 - *2021.07 - 2022.07*, Bytedance, Shanghai, Full-time Engineer, Research and Development Department.
