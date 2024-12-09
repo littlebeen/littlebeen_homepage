@@ -28,10 +28,12 @@ redirect_from:
 
 # 📝 Publications 
 - Sui J, Ma Y, Yang W, et al.  <a href='https://ieeexplore.ieee.org/abstract/document/10552304'>Diffusion Enhancement for Cloud Removal in Ultra-Resolution Remote Sensing Imagery</a>[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024.
-- Sui J, Ma X, Zhang X, et al. <a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10115440'>GCRDN: Global Context-Driven Residual Dense Network for Remote Sensing Image Super-Resolution</a>[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2023. github: <a href='https://github.com/littlebeen/GCRDN'>https://github.com/littlebeen/GCRDN</a>
+- Sui J, Ma D, Kuo C C J, et al. <a href='https://ieeexplore.ieee.org/abstract/document/10756746'>FLDCF: A Collaborative Framework for Forgery Localization and Detection in Satellite Imagery</a>[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024.
+- Sui J, Ma X, Zhang X, et al. <a href='https://ieeexplore.ieee.org/abstract/document/10756746'>GCRDN: Global Context-Driven Residual Dense Network for Remote Sensing Image Super-Resolution</a>[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2023.
+- Sui J, Ma X, Zhang X, et al. <a href='https://ieeexplore.ieee.org/abstract/document/10763472'>Adaptive Semantic-Enhanced Denoising Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution</a>[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2024.
 - Sui J, Wu Q, Pun M O.  <a href='https://www.mdpi.com/2072-4292/16/7/1219'>Denoising Diffusion Probabilistic Model with Adversarial Learning for Remote Sensing Super-Resolution</a>[J]. Remote Sensing, 2024, 16(7): 1219.
 - Sui J, Yin J. <a href='https://www.mdpi.com/2076-3417/11/12/5724'>A biased proportional-integral-derivative-incorporated latent factor analysis model</a>[J]. Applied Sciences, 2021, 11(12): 5724.
-- Wu Q, Ma X, Sui J, et al.  <a href='https://ieeexplore.ieee.org/abstract/document/10556641/'>DF4LCZ: A SAM-Empowered Data Fusion Framework for Scene-Level Local Climate Zone Classification</a>[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024.
+- Wu Q, Ma X, Sui J, et al.  <a href='https://ieeexplore.ieee.org/abstract/document/10556641'>DF4LCZ: A SAM-Empowered Data Fusion Framework for Scene-Level Local Climate Zone Classification</a>[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024.
 
 # 📖 Educations
 - *2025.01 start*, The University of Hong Kong, Department of Geography, Doctor of Philosophy, Supervisor: Zhang Hongsheng, Associate Professor. Website: <a href='https://hkurs.hku.hk'>https://hkurs.hku.hk</a>
