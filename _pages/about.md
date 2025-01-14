@@ -36,12 +36,12 @@ redirect_from:
 - Wu Q, Ma X, Sui J, et al.  <a href='https://ieeexplore.ieee.org/abstract/document/10556641'>DF4LCZ: A SAM-Empowered Data Fusion Framework for Scene-Level Local Climate Zone Classification</a>[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024.
 
 # 📖 Educations
-- *2025.01 start*, The University of Hong Kong, Department of Geography, Doctor of Philosophy, Supervisor: Zhang Hongsheng, Associate Professor. Website: <a href='https://hkurs.hku.hk'>https://hkurs.hku.hk</a>
+- *2025.01 - now*, The University of Hong Kong, Department of Geography, Doctor of Philosophy, Supervisor: Zhang Hongsheng, Associate Professor. Website: <a href='https://hkurs.hku.hk'>https://hkurs.hku.hk</a>
 - *2022.09 - 2024.07*, The Chinese University of Hong Kong, Shenzhen, School of Science and Engineering, Mphil of Computer Information Engineering, Supervisor: Man-On Pun, Associate Professor, Associate Colleges. Project: Cloud Removal, Super-Resolution. Website: <a href='https://mypage.cuhk.edu.cn/academics/simonpun/'>https://mypage.cuhk.edu.cn/academics/simonpun/</a>
 - *2017.09 - 2021.06*, Shandong University, School of Mechanical, Electrical and Information Engineering, B.S. of Engineering. Supervisor: Yin Jian, Professor. Project: Recommendation System.
 
 # 💻 Internships
-- *2024.08 - now*, Sun Yat-Sen University, Supervisor: Chen Yiping, Associate Professor. Project: 3D instance segmantation. Website: <a href='https://ting-devin-han.github.io/Epingpages.github.io'>https://ting-devin-han.github.io/Epingpages.github.io/</a>
+- *2024.08 - 2025.01*, Sun Yat-Sen University, Supervisor: Chen Yiping, Associate Professor. Project: 3D instance segmantation. Website: <a href='https://ting-devin-han.github.io/Epingpages.github.io'>https://ting-devin-han.github.io/Epingpages.github.io/</a>
 - *2023.06 - 2023.08*, Peking University, Supervisor: Liu Jiaying, Associate Professor, IEEE Fellow. Project: Cloud Removal. Website: <a href='http://39.96.165.147/struct.html'>http://39.96.165.147/struct.html</a>
 
 # 💬 Experience
